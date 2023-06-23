@@ -1,7 +1,9 @@
 # reverse-proxy
-a asp.net core 6 web api for reverse proxy
+a asp.net core 6 web api for reverse proxy.
+
 for use this:
-1-> add addresses and aliases to HostsUrls part in appsettings.json like code below:
+
+ add addresses and aliases to HostsUrls part in appsettings.json like code below:
 
     "HostsUrls": {
     "google": "https://www.google.com",
